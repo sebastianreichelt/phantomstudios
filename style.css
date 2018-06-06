@@ -1,0 +1,165 @@
+h1 {
+  text-align: center;
+  font-size:50px
+}
+
+.textHome{
+  text-align: center;
+}
+
+.videoPoop {
+  text-align: center;
+  text-align: center;
+  display: inline-flex;
+}
+
+.videoPoop iframe{
+    padding-left: 62px;
+    width: 366px;
+    height: 297px;
+}
+
+.buyButton {
+  height: 40px;
+  color: black;
+  background: transparent;
+  border: 2px solid #1e647b;
+  border-radius: 6px;
+}
+
+.tryButton {
+  height: 40px;
+  color: black;
+  background: transparent;
+  border: 2px solid #1e647b;
+  border-radius: 6px;
+}
+
+.homeRate {
+  text-align: center;
+}
+
+.nav {
+    background: gray;
+    height: 43px;
+    padding-top: 16px;
+    list-style-type: none;
+    margin: 0;
+    text-align: center;
+    font-size:24px;
+}
+
+.nav a{
+  text-decoration: none;
+  color: white;
+}
+
+.nav a:hover{
+  text-decoration: underline;
+}
+
+li {
+    display: inline;
+    padding: 35px
+}
+
+.homeimg {
+  height: 600px;
+  padding-top: 54px;
+  padding-left: 44px;
+  float:left;
+}
+
+.teamimg {
+  height: 250px;
+  padding-top: 54px;
+  padding-left: 44px;
+  float:left;
+  display: inline-flex;
+}
+
+.teamimgdiv {
+  display: inline-flex;
+}
+
+.about{
+  float: right;
+  margin-right: 241px;
+  margin-top: 119px;
+}
+
+.member img {
+  width: 300px;
+}
+
+.member {
+  padding-top: 54px;
+  padding-left: 40px;
+  float:left;
+  text-align: center;
+  width: 300px;
+}
+
+/*Everything below will be editing the Games page */
+
+.games {
+  display: inline-flex;
+  width: 100%;
+  border-top: 2px black solid;
+    padding-top: 10px;
+}
+
+.gamesAbout {
+  width: 33.33333%;
+}
+
+.gamesAbout img {
+  height: 265px;
+}
+
+.gamesAbout p {
+  float: right;
+  width: 230px;
+  padding-right: 20px;
+}
+
+.titleVideo {
+  width: 33.33333%;
+}
+
+.titleVideo h3 {
+  text-align: center;
+}
+
+.titleVideo iframe {
+  height: 215px;
+  width: 380px;
+  padding-left: 12%;
+}
+
+.rateBuyDemo {
+  width: 33.33333%
+}
+
+.rateBuyDemo p {
+  text-align: center;
+}
+
+.rateBuyDemo .buyButton {
+  height: 40px;
+  color: black;
+  background: transparent;
+  border: 2px solid #1e647b;
+  border-radius: 6px;
+  margin-left: 30%;
+  margin-top: 25%;
+  margin-right: 8%;
+}
+
+.rateBuyDemo .tryButton {
+  height: 40px;
+  color: black;
+  background: transparent;
+  border: 2px solid #1e647b;
+  border-radius: 6px;
+}
